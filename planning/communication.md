@@ -28,17 +28,20 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day      | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| ------   | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| Andy     | 14 - 20 | 14 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Jean Paul| 14 - 20 | 14 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Sarah    | 14 - 20 | 14 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Biniam   | 14 - 20 | 14 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Andy : _6h_; extra comments?
+- Sarah: _6h_;
+- Biniam: _6h_;
+- Jean Paul: _6h_;
+
 
 ## Asking for Help
 
