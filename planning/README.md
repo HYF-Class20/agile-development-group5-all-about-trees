@@ -13,8 +13,12 @@
 ## Brainstorming
 
 > - What user needs and business problem does this app cover?
+ The user needs deep information about trees. The business problem could be the lack of information or resources available on trees, as well as the need to educate the public on the importance of preserving and caring for trees.
+
 > - Who is the user?
+The potential users could be anyone, who is interested in learning more about trees, including nature enthusiasts, students, professionals in fields like forestry or landscaping, or anyone who wants to learn more about the benefits of trees
 > - What is the business?
+The business is renewing the website all about trees.
 
 ---
 
