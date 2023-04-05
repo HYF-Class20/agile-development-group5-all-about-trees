@@ -1,4 +1,4 @@
-## Group Rules
+# Group Rules
 
 - Be respectful to one another
 - Listen actively and share your thoughts and ideas
@@ -17,16 +17,19 @@
 | Wednesday | Zoom Meeting | solve any unfinished tasks    |
 | Thursday  | Zoom Meeting | follow up and check in        |
 | Friday    | Zoom Meeting | finish the assigned tasks     |
+
 ## Communication Channels
 
 How often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**: Daily, and we use this channelto report and track bugs, feature requests, and other tasks related to the project.
-- **Pull Requests**: Once Created we use this channel to review and merge changes into the main branch.,
+- **Issues**: Daily, and we use this channelto report and track bugs, feature
+  requests, and other tasks related to the project.
+- **Pull Requests**: Once Created we use this channel to review and merge
+  changes into the main branch.,
 - **GitHub Discussions** Rarely Used
 - **Slack/Discord**: We use this channel for quick communication with the team.
-- **Video Calls**: From 14h-17h We use this channel for making meetings and discussions about tasks to be done.
-
+- **Video Calls**: From 14h-17h We use this channel for making meetings and
+  discussions about tasks to be done.
 
 ---
 
@@ -34,27 +37,33 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day      | Andy       | Sarah      | Biniam     | Jean Paul  |
-| -------- | ---------- | ---------- | ---------  | -----------|
-| Monday   | 14:00-20:00| 14:00-20:00| 14:00-20:00| 14:00-20:00|
-| Tuesday  | 14:00-20:00| 14:00-20:00| 14:00-20:00| 14:00-20:00|
-| Wednesday| 13:00-20:00| 13:00-20:00| 13:00-20:00| 13:00-20:00|
-| Thursday | 13:00-20:00| 13:00-20:00| 13:00-20:00| 13:00-20:00|
-| Friday   | 13:00-20:00| 13:00-20:00| 13:00-20:00| 13:00-20:00|
-| Saturday | 13:00-20:00| 13:00-20:00| 13:00-20:00| 13:00-20:00|
-| Sunday   | 13:00-20:00| 13:00-20:00| 13:00-20:00| 13:00-20:00|
+| Day       | Andy        | Sarah       | Biniam      | Jean Paul   |
+| --------- | ----------- | ----------- | ----------- | ----------- |
+| Monday    | 14:00-20:00 | 14:00-20:00 | 14:00-20:00 | 14:00-20:00 |
+| Tuesday   | 14:00-20:00 | 14:00-20:00 | 14:00-20:00 | 14:00-20:00 |
+| Wednesday | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 |
+| Thursday  | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 |
+| Friday    | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 |
+| Saturday  | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 |
+| Sunday    | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 | 13:00-20:00 |
 
 ### How many hours everyone has per day
 
-- Andy : _6h_; I am available during the times listed above, but feel free to message me if you need me outside of those hours.
-- Sarah: _6h_; I am available during the times listed above, but feel free to message me if you need me outside of those hours.
-- Biniam: _6h_; I am available during the times listed above, but feel free to message me if you need me outside of those hours.
-- Jean Paul: _6h_; I am available during the times listed above, but feel free to message me if you need me outside of those hours.
+- Andy : _6h_; I am available during the times listed above, but feel free to
+  message me if you need me outside of those hours.
+- Sarah: _6h_; I am available during the times listed above, but feel free to
+  message me if you need me outside of those hours.
+- Biniam: _6h_; I am available during the times listed above, but feel free to
+  message me if you need me outside of those hours.
+- Jean Paul: _6h_; I am available during the times listed above, but feel free
+  to message me if you need me outside of those hours.
 
 ## Asking for Help
 
-There's a fine line between confidently learning from your mistakes, and stubbornly getting nowhere. Here is a general guide for when to ask for help based on how long you've been stuck on the same problem:
+There's a fine line between confidently learning from your mistakes, and
+stubbornly getting nowhere. Here is a general guide for when to ask for help
+based on how long you've been stuck on the same problem:
 
 1. _0 -> 30 min_: Try on your own
 2. _30 -> 60 min_: Ask your group for help
-3. _60+ min
+3. \_60+ min
