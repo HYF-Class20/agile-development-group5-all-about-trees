@@ -2,21 +2,28 @@
 
 1. [Brainstorming](#brainstorming)
 1. [Prioritizing](#prioritizing)
-1. [User Story Dependencies](#user-story-Dependencies)
+1. [User Story Dependencies](#user-story-dependencies)
 1. [Acceptance Criteria](#acceptance-criteria)
 1. [Defining Tasks](#defining-tasks)
 1. [Project Board](#project-board)
 1. [Sprinting and Reviewing](#sprinting-and-reviewing)
 
----
-
 ## Brainstorming
 
 > - What user needs and business problem does this app cover?
-> - Who is the user?
+
+    The user needs deep information about trees. The business problem could be the lack of
+
+> information or resources available on trees, as well as the need to educate
+> the public on the importance of preserving and caring for trees.
+>
+> - Who is the user? The potential users could be anyone, who is interested in
+>   learning more about trees, including nature enthusiasts, students,
+>   professionals in fields like forestry or landscaping, or anyone who wants to
+>   learn more about the benefits of trees
 > - What is the business?
 
----
+     The business is renewing the website all about trees.
 
 ## Prioritizing
 
@@ -32,8 +39,6 @@ important. You will be writing your ideas into a _backlog_.
 - Other Perspectives
   - [Alex Ponomarev](https://medium.com/swlh/prioritizing-user-stories-in-agile-projects-d1dd8dd79165)
   - [Michael Lant](https://michaellant.com/2010/05/21/how-to-easily-prioritize-your-agile-stories/)
-
----
 
 ## Acceptance Criteria
 
@@ -58,8 +63,6 @@ creating a checklist in each issue.
   1. User Input / User Action
   2. Process
   3. Results
-
----
 
 ## User Story Dependencies
 
@@ -87,8 +90,6 @@ represent dependencies:
 [Excalidraw](https://excalidraw.com/) is a great tool for collaboratively
 writing these diagrams.
 
----
-
 ## Defining Tasks
 
 > How to break the story into coding tasks.
@@ -111,8 +112,6 @@ to plan the details of the user story's handler:
 - [Lars Bilde](https://www.youtube.com/watch?v=gZ4uLafsxAk)
 - [Christiaan Verwijs](https://medium.com/the-liberators/10-powerful-strategies-for-breaking-down-user-stories-in-scrum-with-cheatsheet-2cd9aae7d0eb)
 
----
-
 ## Project Board
 
 > How to manage your team's project
@@ -126,8 +125,6 @@ This isn't a permanent thing! You can always adjust the project board and
 development strategy as the project evolves; adding issues, removing issues,
 adjusting tasks ... whatever is necessary to make the project go smoothly.
 
----
-
 ## Sprinting and Reviewing
 
-The fun part, writing code and closing issues ;)
+The fun part, writing code and closing issues
