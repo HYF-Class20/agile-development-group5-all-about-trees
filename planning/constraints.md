@@ -4,8 +4,8 @@ Some boundaries around our project.
 
 ## External
 
-constraints coming from the outside that your team has no control over. these
-may include:
+<<<<<<< HEAD constraints coming from the outside that your team has no control
+over. these may include:
 
 - project deadlines
 - UI design or color schemes
@@ -17,7 +17,17 @@ constraints that come from within your team, and you have no control over. they
 may include:
 
 - each of your individual skill levels
-- amount of time available to work on the project
+
+- ## amount of time available to work on the project
+<!--
+  constraints coming from the outside that your team has no control over.
+  these may include:
+  - project deadlines
+  - UI design or color schemes
+  - technologies (sometimes a client will tell you what to use)
+-->
+
+> > > > > > > 3-brainstorming
 
 ## Internal: Voluntary
 
