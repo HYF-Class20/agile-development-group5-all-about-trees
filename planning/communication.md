@@ -41,8 +41,6 @@ How often will we get in touch on each channel, and what we will discuss there:
 | Wednesday| 13:00-20:00| 13:00-20:00| 13:00-20:00| 13:00-20:00|
 | Thursday | 13:00-20:00| 13:00-20:00| 13:00-20:00| 13:00-20:00|
 | Friday   | 13:00-20:00| 13:00-20:00| 13:00-20:00| 13:00-20:00|
-| Saturday | 13:00-20:00| 13:00-20:00| 13:00-20:00| 13:00-20:00|
-| Sunday   | 13:00-20:00| 13:00-20:00| 13:00-20:00| 13:00-20:00|
 
 ### How many hours everyone has per day
 
