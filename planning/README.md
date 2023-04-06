@@ -1,8 +1,9 @@
 # How to Plan
 
 1. [Brainstorming](#brainstorming)
-1. [Prioritizing](#prioritizing)
-1. [User Story Dependencies](#user-story-dependencies)
+1. [Prioritizing](#prioritizing)add-user-personas
+1. [User Story Dependencies](#user-story-dependencies; Actual:
+1. [User Story Dependencies](#user-story-dependencies) master
 1. [Acceptance Criteria](#acceptance-criteria)
 1. [Defining Tasks](#defining-tasks)
 1. [Project Board](#project-board)
