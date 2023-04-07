@@ -2,7 +2,7 @@
 
 ## Stop Doing
 
-- not makind changes to the master branch and making a new branch befor each
+- not making changes to the master branch and making a new branch befor each
   change
 
 ## Continue Doing
