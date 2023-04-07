@@ -11,7 +11,7 @@ project into smaller, manageable tasks will help the team stay organized.
 - the first task is to ensure that the website provides accurate and
   comprehensive information about trees.
 - we will conduct research on the different types of trees and their
-  characteristics. Specifically which trees makes a house beatiful and which
+  characteristics. Specifically which trees makes a house beautiful and which
   ones are fit in school gardens.
 - Develop website wireframes.
 - Create website design.
