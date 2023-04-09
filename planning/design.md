@@ -5,6 +5,4 @@ Prettiness is not a priority for this project.
 
 ---
 
-> [wireframe source](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
-
-![wireframe](https://excalidraw.com/#json=mHOtvaCek8DjODrh-4VMb,dtcvKdXE0OUoIhkgfkqxjA)
+> [wireframe source](https://excalidraw.com/#json=mHOtvaCek8DjODrh-4VMb,dtcvKdXE0OUoIhkgfkqxjA)
